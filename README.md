@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/imhayatunnabi/Frontend-Mentor-Social-media-dashboard-)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/imhayatunnabi/Frontend-Mentor-Social-media-dashboard-)
+- Live Site URL: [live site URL here](https://frontend-mentor-social-dashboard.netlify.app)
 
 ## My process
 
@@ -101,9 +101,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [imhayatunnabi](https://imhayatunnabi.github.io/html-css-portfolio/)
+- Frontend Mentor - [@imhayatunnabi](https://www.frontendmentor.io/profile/imhayatunnabi)
+- Facebook - [@imhayatunnabi](https://www.facebook.com/imhayatunnabi)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
